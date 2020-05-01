@@ -21,7 +21,7 @@ Aplicação que, a partir da geolocalização do usuário e do mês atual, defin
 
 Para executar esse repositório primeiramente baixe os arquivos desse repositório.
 
-- abra a pasta `seasons` na Shell (No windows Power Shell em modo administrador). 
+- abra a pasta `react-seasons` na Shell (No windows Power Shell em modo administrador). 
 - `$ npm install` esse comando irá instalar todos os módulos e dependências do projeto.
 - `$ npm start` irá iniciar o servidor na porta: `localhost:3000\` 
 
