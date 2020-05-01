@@ -1,5 +1,5 @@
 <h1 align="center">
-  :snowflake: React Seasons :Sun:
+  :snowflake: React Seasons :sunny:
 </h1>
 
 <p align="center">
