@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido no curso Modern React with Redux, logo a principal
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/react-components/blob/master/react-components.PNG)
-![Layout do projeto](https://github.com/ChristySchott/react-components/blob/master/react-components.PNG)
-![Layout do projeto](https://github.com/ChristySchott/react-components/blob/master/react-components.PNG)
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout0.PNG)
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout1.PNG)
+![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout2.PNG)
 
 ## :zap: Executando
 
