@@ -15,7 +15,7 @@
 
 ## 💻 Projeto
 
-Aplicação utilizando uma API que conecta o usuários a milhares de receitas. Além de pesquisar pela receita o usário pode dar like, colocar os ingredientes numa lista para a compra e também definer o número de pessoas que a receita deve servir.
+Aplicação que, a partir da geolocalização do usuário e do mês atual, define a estação do ano.
 
 ## Instalação 🚀
 
