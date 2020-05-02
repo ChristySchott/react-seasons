@@ -37,7 +37,6 @@ Layout:
 ![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout1.PNG)
 ![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout2.PNG)
 
-## :zap: Executando
 
 ### Aprendizados:
 
